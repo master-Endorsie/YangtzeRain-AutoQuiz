@@ -17,4 +17,4 @@
 
 ### 打开雨课堂网页
 
-用浏览器打开前缀为[pro.yuketang.cn/lesson/fullscreen/](pro.yuketang.cn/lesson/fullscreen/)的课堂网页，即可自动监控新习题并自动推送提醒
+用浏览器打开前缀为[changjiang.yuketang.cn/lesson/fullscreen/]的课堂网页，即可自动监控新习题并自动推送提醒
