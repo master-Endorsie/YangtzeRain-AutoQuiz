@@ -3,7 +3,7 @@
 // @version      0.2
 // @description  雨课堂直播课堂习题自动监控+提醒
 // @author       Bingjun Luo
-// @match        *://pro.yuketang.cn/lesson/fullscreen/*
+// @match        *://changjiang.yuketang.cn/lesson/fullscreen/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        GM_xmlhttpRequest
 // @connect      sctapi.ftqq.com
