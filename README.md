@@ -1,7 +1,5 @@
-# 雨课堂小助手
+# 长江雨课堂课堂习题监控
 简单的Tampermonkey小脚本，可以对雨课堂直播课堂网页上的习题进行自动监控，并基于Gotify或「Server酱」的信息推送API实现多端自动提醒功能。
-
-## 安装使用
 
 ### 安装Tampermonkey
 
@@ -9,7 +7,7 @@
 
 ### 安装脚本
 
-访问[greasyfork.org](https://greasyfork.org/zh-CN/scripts/434581-雨课堂小助手)安装本脚本
+访问[greasyfork.org](https://greasyfork.org/zh-CN/scripts/528189-yangtzerain-autoquiz)安装本脚本
 
 ### 配置推送API
 
