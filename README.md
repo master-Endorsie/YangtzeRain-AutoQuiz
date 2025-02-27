@@ -13,7 +13,7 @@
 
 ### 配置推送API
 
-脚本支持Gotify或「Server酱」两种信息推送渠道，推荐使用「Server酱」实现微信端的自动提醒。可先访问[https://sct.ftqq.com/login](https://greasyfork.org/zh-CN/scripts/434581-雨课堂小助手)，手机微信扫码关注后获得SendKey后粘贴到脚本第一行的引号中
+脚本支持Gotify或「Server酱」两种信息推送渠道，推荐使用「Server酱」实现微信端的自动提醒。可先访问[https://sct.ftqq.com/login](https://sct.ftqq.com/login)，手机微信扫码关注后获得SendKey后粘贴到脚本第一行的引号中
 
 ### 打开雨课堂网页
 
